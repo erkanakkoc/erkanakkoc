@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there I'm Erkan👋
 
+![Erkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkanakkoc&show_icons=true&theme=algolia)
 <!--
+<br/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erkanakkoc)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 **erkanakkoc/erkanakkoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
