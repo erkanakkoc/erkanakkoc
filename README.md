@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Erkan Akkoç</h1>
-<h3 align="center">I am studying hard to becoming a good software developer.</h3>
+<h3 align="center">I am studying hard to becoming a good developer. I'm interested in AI and Wearable Technologies.</h3>
 
 
 ### FOLLOW ME
